@@ -15,8 +15,10 @@
 
 </div>
 </h4>
+<div align="center">
+
 ## 🔨 Skills
- 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -34,12 +36,15 @@
 
 <hr>
 
-```javascript
+````javascript
   async repositories.index({
     description: ['Welcome to my page , have a nice time. '],
     study: Always open to new knowledge,
     other: Dont stop just do it
   });
 
-  return response.status(201).send();
+
 ```
+</div>
+
+````
