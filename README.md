@@ -42,7 +42,6 @@
 <br>
 <br>
 
-<div align="center">
 ```javascript
   async repositories.index({
     description: ['Welcome to my page , have a nice time. '],
@@ -50,8 +49,6 @@
     other: Dont stop just do it
   });
 
-</div>
 
-```
 
 ```
