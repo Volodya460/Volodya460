@@ -35,16 +35,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>
 
 <hr>
-
-````javascript
+<br>
+<br>
+```javascript
   async repositories.index({
     description: ['Welcome to my page , have a nice time. '],
     study: Always open to new knowledge,
     other: Dont stop just do it
   });
 
-
-```
 </div>
-
-````
+```
