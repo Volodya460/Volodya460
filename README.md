@@ -11,8 +11,6 @@
 <!-- [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/volodymyr-kushch/)](https://www.linkedin.com/in/volodymyr-kushch/)
-[![Telegram Badge](https://github.com/badges/shields/blob/master/logo/telegram.svg&link=//https://t.me/VolodyaKushch)](https://t.me/VolodyaKushch)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:volodyakushch@gmail.com)](mailto:volodyakushch@gmail.com)
 
 </div>
