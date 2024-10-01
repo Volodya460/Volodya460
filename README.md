@@ -1,4 +1,4 @@
-<h2 align="center">I`m Front-end Developer from Ukraine</h2>
+<h2 align="center">I`m Full Stack Developer from Ukraine</h2>
 
 <h4 align="center">
  
