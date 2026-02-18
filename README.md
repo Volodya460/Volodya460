@@ -6,8 +6,6 @@
 
 <hr>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=volodya460&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
-
 <div align="center">
 
 <!-- [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/) -->
